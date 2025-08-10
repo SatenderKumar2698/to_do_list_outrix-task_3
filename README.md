@@ -1,4 +1,4 @@
-# TaskMaster - Professional To-Do List Web App
+# To-Do List Web App
 
 ## Table of Contents
 - [Features](#features)
