@@ -36,7 +36,7 @@
 
 ## Demo
 
-[Live Demo](#) *(Replace with your actual demo link when deployed)*
+[Live Demo](boisterous-pastelito-8253b7.netlify.app) 
 
 ## Installation
 
